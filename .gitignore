@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 node_modules
 .env
 .DS_Store
+=======
+# Ignore Mac system files
+.DS_Store/
+
+# Ignore node_modules folder
+node_modules/
+
+.env
+>>>>>>> 35ae75ea38179518381b27b6c3fa2ba3dce54100
 readme.js
