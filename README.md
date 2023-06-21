@@ -20,9 +20,9 @@ The following table provides an overview of the files included in the project:
 
 | File Type | Description |
 | --- | --- |
-| .json |  |
 | .js | This project includes JavaScript files that provide the interactive functionality of the web page. |
 | .sql | This project includes a SQL file that defines the database schema and seed data. |
+| .json |  |
 | .md | This project includes a Markdown file that provides documentation. |
 | .txt | This project includes a text file that provides documentation. |
 
@@ -35,6 +35,7 @@ The following table provides an overview of the files included in the project:
 | --- | --- | --- |
 | .js | This project includes JavaScript files that provide the interactive functionality of the web page. | Create the file ".js" in the folder using the file extension. |
 | .json |  | No npm packages detected. |
+| .md | This project includes a Markdown file that provides documentation. | Create the file ".md" in the folder using the file extension. |
 | .gitignore | This project includes a Gitignore file that specifies which files to ignore. | No installation instructions available. |
 | .git | This project includes a Git file that provides version control. | No installation instructions available. |
 
@@ -45,6 +46,7 @@ This project was developed by Marcies Smith.
 ## Links
 
 - [GitHub Repository](https://github.com/Seicram/E-commerce-Back-End)
+- [Demo Video](https://drive.google.com/file/d/19U_q5wNIbvS7Db3rHW7KwA2PSD8MOJJe/view)
 
 ## License
 
